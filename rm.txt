@@ -1,0 +1,35 @@
+EDA Project
+
+This project contains basic Exploratory Data Analysis (EDA) for the dataset supermarket sales data
+
+What I Did
+
+Loaded and checked the dataset structure
+
+Checked missing values
+
+Plotted histograms and boxplots
+
+Created a pairplot
+
+Created a correlation heatmap
+
+Identified distributions, patterns, and outliers
+
+Tools Used
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Files
+
+annex1.csv – Dataset
+
+EDA_Notebook.ipynb – Notebook with all EDA
+
+README.md – Project summary
